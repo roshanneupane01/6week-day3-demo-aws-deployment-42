@@ -1,4 +1,4 @@
-const { default: axios } = require("axios")
+
 
 const btn = document.querySelector('button')
 
